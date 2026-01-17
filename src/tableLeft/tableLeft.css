@@ -1,0 +1,36 @@
+@import "../assets/css/colors.css";
+.table-left {
+  width: 200px;
+  border-top: 2px solid var(--border-table);
+  border-left: 2px solid var(--border-table);
+  height: 100vh;
+  margin-top: 45px;
+}
+.dashboard {
+  background-color: var(--background-table-left);
+}
+/* Tiêu đề dashboard */
+.title-admin-dashboard {
+  border-bottom: 2px solid var(--border-table);
+  padding: 20px;
+  font-weight: bold;
+  font-size: 18px;
+  text-align: center;
+  background-color: var(--background_Admin-dashboard);
+  cursor: pointer;
+}
+
+/* Danh mục khoá học / người dùng */
+.description-course-admin {
+  padding: 20px;
+}
+.description-course-admin p {
+  width: 100%;
+  padding: 10px;
+  border-bottom: 2px solid #ddd;
+  cursor: pointer;
+  font-weight: 500;
+}
+.description-course-admin p:hover {
+  background-color: var(--background-table-left-hover);
+}

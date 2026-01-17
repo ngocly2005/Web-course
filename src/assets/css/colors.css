@@ -1,0 +1,18 @@
+:root {
+  --primary-color: #089bea;
+  --secondary-color: #61baea;
+  --btn-xem-them-hover: #e1e5e9;
+  --btn-xem-them: #089bea;
+  --btn-xem-them-hover: #0092fb;
+  --btn-chinh-sua: #24a4eb;
+  --btn-luu: green;
+  --color-title-course: #222;
+  --background-table-left: #fff;
+  --border-table: #ddd;
+  --background_Admin-dashboard: #eee;
+  --background-table-left-hover: #f0f0f0;
+  --btn-search: #229fe4;
+  --btn-luu-thay-doi: #229fe4;
+  --background-edit-course: #ffffff;
+  --btn-hover: #e1c961;
+}

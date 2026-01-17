@@ -1,0 +1,55 @@
+.form-tao-khoa-hoc {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 30px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  font-family: "Segoe UI", sans-serif;
+  margin-top: 100px;
+}
+.again-course {
+  border: none;
+  background-color: white;
+}
+.again-course i {
+  font-size: 24px;
+  color: #099cea;
+  cursor: pointer;
+}
+.form-tao-khoa-hoc h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 24px;
+}
+
+.form-tao-khoa-hoc input,
+.form-tao-khoa-hoc textarea {
+  width: 95%;
+  padding: 12px 14px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+.form-tao-khoa-hoc textarea {
+  height: 120px;
+  resize: vertical;
+}
+
+.button-save {
+  width: 100%;
+  padding: 12px;
+  background-color: var(--btn-luu-thay-doi);
+  border: none;
+  border-radius: 6px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.button-save:hover {
+  background-color: #0056b3;
+}

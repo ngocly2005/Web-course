@@ -1,0 +1,76 @@
+@import "../assets/css/colors.css";
+.table-dashboard {
+  display: flex;
+  border-left: 2px solid var(--border-table);
+  border-bottom: 2px solid var(--border-table);
+  border-radius: 8px;
+  margin-top: 20px;
+  overflow: hidden;
+}
+/* Nút Create và Edit */
+.table-right button {
+  padding: 10px 20px;
+  margin-right: 10px;
+  font-size: 14px;
+  font-weight: 500;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* Nút Create */
+.table-right button:first-of-type {
+  background-color: var(--btn-luu);
+  color: white;
+}
+
+.table-right button:first-of-type:hover {
+  background-color: #218838;
+}
+.btn-create-edit {
+  margin-top: -20px;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+/* Nút Edit */
+.table-right button:last-of-type {
+  background-color: var(--btn-search);
+  color: white;
+}
+
+.table-right button:last-of-type:disabled {
+  background-color: var(--btn-chinh-sua);
+  cursor: not-allowed;
+}
+
+.table-right button:last-of-type:not(:disabled):hover {
+  background-color: #0056b3;
+}
+/* Phần bên phải */
+.table-right {
+  flex: 1;
+  padding: 20px;
+  background-color: #fff;
+  margin-top: 50px;
+  border-left: 2px solid var(--border-table);
+}
+/* Table */
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+.table th,
+.table td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+}
+.table th {
+  font-weight: 600;
+}
+.table tr:hover {
+  background-color: #f9f9f9;
+}

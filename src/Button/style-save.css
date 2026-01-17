@@ -1,0 +1,15 @@
+.btn-luu {
+  background-color: var(--btn-luu);
+  width: 70px;
+  margin-right: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.input-edit {
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+}

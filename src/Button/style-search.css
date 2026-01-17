@@ -1,0 +1,44 @@
+.title-search {
+  display: flex;
+
+  gap: 12px;
+  margin: 15px;
+}
+.tieu-de_loc-theo-danh-sach {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.row-filter {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  /* gap: 12px; */
+  margin: 15px;
+  align-items: center;
+}
+
+.title-search label {
+  font-weight: 600;
+  margin-right: 8px;
+}
+.title-search input {
+  padding: 13px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  width: 300px;
+}
+.btn-search {
+  margin-left: 20px;
+  padding: 8px 16px;
+  background-color: #26a3e7;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.btn-search:hover {
+  background-color: #0056b3;
+}

@@ -1,0 +1,277 @@
+{
+  "listToDo": [
+    {
+      "id": "1",
+      "title": "Làm chủ giọng nói1",
+      "author": "Trần Thị Minh Hải",
+      "image": "https://static.unica.vn/upload/images/2024/02/lam-chu-giong-noi.jpg_1708682145.jpg",
+      "isBestSeller": true,
+      "description": "Khóa học giúp bạn luyện phát âm chuẩn, tròn vành rõ chữ.Biết cách điều tiết hơi thở, âm lượng và nhịp điệu khi nói.\nTăng cường sự truyền cảm trong giọng nói để gây ấn tượng mạnh.Hướng dẫn luyện tập hàng ngày để cải thiện giọng bền vững.\nPhù hợp cho giảng viên, MC, người làm truyền thông hoặc bán hàng.Khóa học giúp bạn luyện phát âm chuẩn, tròn vành rõ chữ.\nBiết cách điều tiết hơi thở, âm lượng và nhịp điệu khi nói.Tăng cường sự truyền cảm trong giọng nói để gây ấn tượng mạnh.\nHướng dẫn luyện tập hàng ngày để cải thiện giọng bền vững.Phù hợp cho giảng viên, MC, người làm truyền thông hoặc bán hàng.Khóa học giúp bạn luyện phát âm chuẩn, tròn vành rõ chữ.Biết cách điều tiết hơi thở, âm lượng và nhịp điệu khi nói.\nTăng cường sự truyền cảm trong giọng nói để gây ấn tượng mạnh.Hướng dẫn luyện tập hàng ngày để cải thiện giọng bền vững.\nPhù hợp cho giảng viên, MC, người làm truyền thông hoặc bán hàng.Khóa học giúp bạn luyện phát âm chuẩn, tròn vành rõ chữ.\nBiết cách điều tiết hơi thở, âm lượng và nhịp điệu khi nói.Tăng cường sự truyền cảm trong giọng nói để gây ấn tượng mạnh.\nHướng dẫn luyện tập hàng ngày để cải thiện giọng bền vững.Phù hợp cho giảng viên, MC, người làm truyền thông hoặc bán hàng.Khóa học giúp bạn luyện phát âm chuẩn, tròn vành rõ chữ.Biết cách điều tiết hơi thở, âm lượng và nhịp điệu khi nói.\nTăng cường sự truyền cảm trong giọng nói để gây ấn tượng mạnh.Hướng dẫn luyện tập hàng ngày để cải thiện giọng bền vững.\nPhù hợp cho giảng viên, MC, người làm truyền thông hoặc bán hàng.Khóa học giúp bạn luyện phát âm chuẩn, tròn vành rõ chữ.\nBiết cách điều tiết hơi thở, âm lượng và nhịp điệu khi nói.Tăng cường sự truyền cảm trong giọng nói để gây ấn tượng mạnh.\nHướng dẫn luyện tập hàng ngày để cải thiện giọng bền vững.Phù hợp cho giảng viên, MC, người làm truyền thông hoặc bán hàng.",
+      "category": 2,
+      "numberOfStudents": 85,
+      "rating": 4.8,
+      "price": "222"
+    },
+    {
+      "id": "2",
+      "title": "SÁNG TẠO VIDEO AI, BÁN HÀNG TĂNG THU NHẬP",
+      "author": "Henry Nguyen",
+      "image": "https://file.unica.vn/storage/db240c65c57e0a4f35edba3312c62511cbac63cc/video-ai-12-05-25-nho.png",
+      "isBestSeller": true,
+      "description": "Ứng dụng AI để tạo video chuyên nghiệp trong thời gian ngắn.\nHọc cách viết kịch bản, chọn giọng đọc và hình ảnh minh họa.\nNắm được quy trình biên tập và xuất bản video hút mắt.\nTăng khả năng chốt đơn bằng nội dung video sáng tạo.\nPhù hợp cho người bán hàng online, marketer và freelancer.Ứng dụng AI để tạo video chuyên nghiệp trong thời gian ngắn.\nHọc cách viết kịch bản, chọn giọng đọc và hình ảnh minh họa.\nNắm được quy trình biên tập và xuất bản video hút mắt.\nTăng khả năng chốt đơn bằng nội dung video sáng tạo.\nPhù hợp cho người bán hàng online, marketer và freelancer.Ứng dụng AI để tạo video chuyên nghiệp trong thời gian ngắn.\nHọc cách viết kịch bản, chọn giọng đọc và hình ảnh minh họa.\nNắm được quy trình biên tập và xuất bản video hút mắt.\nTăng khả năng chốt đơn bằng nội dung video sáng tạo.\nPhù hợp cho người bán hàng online, marketer và freelancer.",
+      "category": 3,
+      "numberOfStudents": 84,
+      "rating": 4.6
+    },
+    {
+      "id": "3",
+      "title": "Xây kênh Facebook & Instagram Reels",
+      "author": "Henry Nguyen",
+      "image": "https://i.imgur.com/kFLuGCR.jpeg",
+      "tags": [
+        {
+          "id": 1,
+          "nameTag": "isBestSeller"
+        }
+      ],
+      "isBestSeller": false,
+      "isSaleToday": true,
+      "description": "Hướng dẫn chi tiết cách quay dựng video ngắn thu hút người xem.\nTạo nội dung sáng tạo trên Facebook & Instagram để tăng follow.\nBiết cách phân tích trend, tối ưu hashtag và thời điểm đăng bài.\nXây dựng thương hiệu cá nhân hiệu quả qua nền tảng mạng xã hội.\nRất phù hợp cho người mới bắt đầu làm nội dung Reels.Hướng dẫn chi tiết cách quay dựng video ngắn thu hút người xem.\nTạo nội dung sáng tạo trên Facebook & Instagram để tăng follow.\nBiết cách phân tích trend, tối ưu hashtag và thời điểm đăng bài.\nXây dựng thương hiệu cá nhân hiệu quả qua nền tảng mạng xã hội.\nRất phù hợp cho người mới bắt đầu làm nội dung Reels.Hướng dẫn chi tiết cách quay dựng video ngắn thu hút người xem.\nTạo nội dung sáng tạo trên Facebook & Instagram để tăng follow.\nBiết cách phân tích trend, tối ưu hashtag và thời điểm đăng bài.\nXây dựng thương hiệu cá nhân hiệu quả qua nền tảng mạng xã hội.\nRất phù hợp cho người mới bắt đầu làm nội dung Reels.",
+      "category": 3,
+      "numberOfStudents": 15,
+      "price": "11",
+      "rating": 4.3
+    },
+    {
+      "id": "4",
+      "title": "Thành thạo TikTok từ A-Z cho người mới bắt đầu",
+      "author": "Phạm Thu Hà",
+      "image": "https://i.imgur.com/XqPDkMq.png",
+      "isSaleToday": true,
+      "description": "Cung cấp kiến thức nền tảng để tạo dựng kênh TikTok thành công.\nHọc cách lên ý tưởng nội dung viral và giữ chân người xem.\nTối ưu hóa hồ sơ, video và chiến lược hashtag trên TikTok.\nHướng dẫn tăng tương tác và kiếm tiền từ TikTok.\nPhù hợp cho cá nhân, doanh nghiệp muốn tiếp cận khách hàng trẻ.Cung cấp kiến thức nền tảng để tạo dựng kênh TikTok thành công.\nHọc cách lên ý tưởng nội dung viral và giữ chân người xem.\nTối ưu hóa hồ sơ, video và chiến lược hashtag trên TikTok.\nHướng dẫn tăng tương tác và kiếm tiền từ TikTok.\nPhù hợp cho cá nhân, doanh nghiệp muốn tiếp cận khách hàng trẻ.Cung cấp kiến thức nền tảng để tạo dựng kênh TikTok thành công.\nHọc cách lên ý tưởng nội dung viral và giữ chân người xem.\nTối ưu hóa hồ sơ, video và chiến lược hashtag trên TikTok.\nHướng dẫn tăng tương tác và kiếm tiền từ TikTok.\nPhù hợp cho cá nhân, doanh nghiệp muốn tiếp cận khách hàng trẻ.",
+      "category": 3,
+      "numberOfStudents": 45,
+      "rating": 4.2
+    },
+    {
+      "id": "5",
+      "title": "Khóa học guitar đệm hát cơ bản",
+      "author": "Nguyễn Đức Cường",
+      "image": "https://i.imgur.com/XYABbfL.jpg",
+      "isBestSeller": false,
+      "isSaleToday": true,
+      "muchToLearnInAWeek": true,
+      "description": "Hướng dẫn từ cách cầm đàn, bấm hợp âm đến đệm hát các bài cơ bản.\nLuyện tai nghe và cảm âm để chơi nhạc dễ dàng hơn.\nCung cấp bài tập thực hành cụ thể theo từng tuần.\nGiúp bạn tự tin chơi đàn tại các buổi sinh hoạt, tụ họp.\nPhù hợp với người mới chưa từng học guitar.Hướng dẫn từ cách cầm đàn, bấm hợp âm đến đệm hát các bài cơ bản.\nLuyện tai nghe và cảm âm để chơi nhạc dễ dàng hơn.\nCung cấp bài tập thực hành cụ thể theo từng tuần.\nGiúp bạn tự tin chơi đàn tại các buổi sinh hoạt, tụ họp.\nPhù hợp với người mới chưa từng học guitar.Hướng dẫn từ cách cầm đàn, bấm hợp âm đến đệm hát các bài cơ bản.\nLuyện tai nghe và cảm âm để chơi nhạc dễ dàng hơn.\nCung cấp bài tập thực hành cụ thể theo từng tuần.\nGiúp bạn tự tin chơi đàn tại các buổi sinh hoạt, tụ họp.\nPhù hợp với người mới chưa từng học guitar.Hướng dẫn từ cách cầm đàn, bấm hợp âm đến đệm hát các bài cơ bản.\nLuyện tai nghe và cảm âm để chơi nhạc dễ dàng hơn.\nCung cấp bài tập thực hành cụ thể theo từng tuần.\nGiúp bạn tự tin chơi đàn tại các buổi sinh hoạt, tụ họp.\nPhù hợp với người mới chưa từng học guitar.Hướng dẫn từ cách cầm đàn, bấm hợp âm đến đệm hát các bài cơ bản.\nLuyện tai nghe và cảm âm để chơi nhạc dễ dàng hơn.\nCung cấp bài tập thực hành cụ thể theo từng tuần.\nGiúp bạn tự tin chơi đàn tại các buổi sinh hoạt, tụ họp.\nPhù hợp với người mới chưa từng học guitar.",
+      "category": 5,
+      "numberOfStudents": 88,
+      "rating": 4.7
+    },
+    {
+      "id": "6",
+      "title": "Học chơi cờ vua từ cơ bản đến nâng cao",
+      "author": "GM Trần Tuấn Minh",
+      "image": "https://i.imgur.com/WuTzRM9.jpg",
+      "isBestSeller": false,
+      "description": "Đây là mô tả chi tiết cho khóa học số 6.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 6.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 6.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 6.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 6.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.",
+      "category": 7,
+      "numberOfStudents": 100,
+      "rating": 4.9
+    },
+    {
+      "id": "7",
+      "title": "Kỹ năng giao tiếp & ứng xử trong cuộc sống",
+      "author": "TS. Lê Thẩm Dương",
+      "image": "https://static.unica.vn/upload/images/2024/02/hoc-autocad-co-ban-va-nang-cao.jpg_m_1709093061.jpg",
+      "isBestSeller": true,
+      "description": "Đây là mô tả chi tiết cho khóa học số 7.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 7.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 7.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 7.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 7.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.",
+      "category": 2,
+      "numberOfStudents": 80,
+      "rating": 4.4
+    },
+    {
+      "id": "8",
+      "title": "Lập trình Web Fullstack cho người mới",
+      "author": "Vũ Nguyễn",
+      "image": "https://i.imgur.com/LKxloVD.jpg",
+      "isBestSeller": true,
+      "description": "Đây là mô tả chi tiết cho khóa học số 8.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 8.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 8.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 8.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 8.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.",
+      "category": 1,
+      "numberOfStudents": 8,
+      "rating": 4.5
+    },
+    {
+      "id": "9",
+      "title": "Tiếng Anh giao tiếp phản xạ nhanh",
+      "author": "Hoàng Lan",
+      "image": "https://i.imgur.com/N4QwB6o.jpg",
+      "isBestSeller": false,
+      "isSaleToday": true,
+      "description": "Đây là mô tả chi tiết cho khóa học số 9.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.ây là mô tả chi tiết cho khóa học số 9.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.ây là mô tả chi tiết cho khóa học số 9.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.ây là mô tả chi tiết cho khóa học số 9.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.ây là mô tả chi tiết cho khóa học số 9.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.ây là mô tả chi tiết cho khóa học số 9.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.",
+      "category": 2,
+      "numberOfStudents": 150,
+      "rating": 4.6
+    },
+    {
+      "id": "10",
+      "title": "Thiết kế Canva chuyên nghiệp cho người mới",
+      "author": "Lê Thanh Huyền",
+      "image": "https://i.imgur.com/RiTf3Bg.jpg",
+      "isBestSeller": false,
+      "isSaleToday": true,
+      "description": "Đây là mô tả chi tiết cho khóa học số 10.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 10.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 10.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 10.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 10.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 10.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 10.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.",
+      "category": 4,
+      "numberOfStudents": 34,
+      "rating": 2
+    },
+    {
+      "id": "11",
+      "title": "Nói chuyện trước công chúng - Tự tin thuyết trình",
+      "author": "Lưu Văn Nam",
+      "image": "https://i.imgur.com/jE6AxGx.jpg",
+      "description": "Đây là mô tả chi tiết cho khóa học số 11.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 11.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 11.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 11.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 11.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.",
+      "category": 2,
+      "numberOfStudents": 55,
+      "rating": 1.5
+    },
+    {
+      "id": "12",
+      "title": "Tư duy tích cực trong công việc & cuộc sống",
+      "author": "Phan Thị Hồng Hạnh",
+      "image": "https://i.imgur.com/B4AxPi7.jpg",
+      "description": "Đây là mô tả chi tiết cho khóa học số 12.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 12.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 12.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 12.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 12.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 12.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.",
+      "category": 7,
+      "numberOfStudents": 15,
+      "rating": 1
+    },
+    {
+      "id": "13",
+      "title": "Marketing từ cơ bản đến nâng cao",
+      "author": "Trần Việt Dũng",
+      "image": "https://i.imgur.com/GhGgiay.jpg",
+      "description": "Đây là mô tả chi tiết cho khóa học số 13.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 13.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 13.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 13.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 13.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 13.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 13.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.",
+      "category": 3,
+      "numberOfStudents": 77,
+      "rating": 5
+    },
+    {
+      "id": "14",
+      "title": "Chụp ảnh sản phẩm bằng điện thoại",
+      "author": "Đặng Thanh Huyền",
+      "image": "https://i.imgur.com/lWyv7gF.jpg",
+      "description": "Đây là mô tả chi tiết cho khóa học số 14.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 14.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 14.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 14.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 14.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 14.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.",
+      "category": 4,
+      "numberOfStudents": 40,
+      "rating": 4.4
+    },
+    {
+      "id": "15",
+      "title": "Giảm stress và cân bằng cuộc sống",
+      "author": "Bác sĩ Trần Thị Thảo",
+      "image": "https://i.imgur.com/Y0M5N8Y.jpg",
+      "description": "Đây là mô tả chi tiết cho khóa học số 15.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 15.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 15.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 15.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 15.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 15.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.",
+      "category": 6,
+      "numberOfStudents": 20,
+      "rating": 4.7
+    },
+    {
+      "id": "16",
+      "title": "Thiết kế logo và nhận diện thương hiệu",
+      "author": "Hà Nhật Minh",
+      "image": "https://i.imgur.com/XrjTQwd.jpg",
+      "description": "Đây là mô tả chi tiết cho khóa học số 16.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 16.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 16.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 16.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 16.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 16.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.",
+      "category": 4,
+      "numberOfStudents": 75,
+      "rating": 4.9
+    },
+    {
+      "id": "17",
+      "title": "Khóa học số 17",
+      "author": "Lê Quốc Cường",
+      "image": "https://i.imgur.com/nvhV5ah.jpg",
+      "description": "Đây là mô tả chi tiết cho khóa học số 17.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 17.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 17.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 17.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 17.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 17.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.",
+      "category": 3,
+      "numberOfStudents": 35,
+      "rating": 5
+    },
+    {
+      "id": "18",
+      "title": "Quản lý thời gian hiệu quả",
+      "author": "Nguyễn Văn Long",
+      "image": "https://i.imgur.com/GpOa5eG.jpg",
+      "description": "Đây là mô tả chi tiết cho khóa học số 18.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 18.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 18.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 18.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 18.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 18.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.",
+      "category": 7,
+      "numberOfStudents": 10,
+      "rating": 4.6
+    },
+    {
+      "id": "19",
+      "title": "Học thiết kế ấn phẩm truyền thông",
+      "author": "Lê Thanh Huyền",
+      "image": "https://i.imgur.com/LTTgxds.jpg",
+      "description": "Đây là mô tả chi tiết cho khóa học số 19.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 19.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 19.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 19.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 19.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 19.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 19.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.",
+      "category": 4,
+      "numberOfStudents": 5,
+      "rating": 2.5
+    },
+    {
+      "id": "20",
+      "title": "Làm chủ Excel trong 7 ngày",
+      "author": "Nguyễn Văn Hùng",
+      "image": "https://i.imgur.com/O88eMlK.jpg",
+      "description": "Đây là mô tả chi tiết cho khóa học số 20.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.ây là mô tả chi tiết cho khóa học số 20.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.ây là mô tả chi tiết cho khóa học số 20.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.ây là mô tả chi tiết cho khóa học số 20.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.ây là mô tả chi tiết cho khóa học số 20.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.ây là mô tả chi tiết cho khóa học số 20.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.ây là mô tả chi tiết cho khóa học số 20.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.",
+      "category": 1,
+      "numberOfStudents": 66,
+      "rating": 4
+    },
+    {
+      "id": "21",
+      "title": "Lập trình Python cơ bản",
+      "author": "Nguyễn Đức Anh",
+      "image": "https://i.imgur.com/bPbQz0e.jpg",
+      "description": "Đây là mô tả chi tiết cho khóa học số 21.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 21.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 21.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 21.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 21.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 21.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.",
+      "category": 1,
+      "numberOfStudents": 99,
+      "rating": 4.6
+    },
+    {
+      "id": "22",
+      "title": "Thiền định và hơi thở chữa lành",
+      "author": "Thiền sư Minh Thành",
+      "image": "https://i.imgur.com/t6l8Daa.jpg",
+      "description": "Đây là mô tả chi tiết cho khóa học số 22.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 22.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 22.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 22.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 22.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 22.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.",
+      "category": 6,
+      "numberOfStudents": 44,
+      "rating": 4.9
+    },
+    {
+      "id": "23",
+      "title": "Kỹ năng viết nội dung bán hàng",
+      "author": "Nguyễn Văn Đạt",
+      "image": "https://i.imgur.com/fHX1hwE.jpg",
+      "description": "Đây là mô tả chi tiết cho khóa học số 23.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 23.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 23.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 23.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 23.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 23.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.",
+      "category": 3,
+      "numberOfStudents": 65,
+      "rating": 3
+    },
+    {
+      "id": "24",
+      "title": "Học AI cơ bản cho người mới",
+      "author": "Trần Đức Hiếu",
+      "image": "https://i.imgur.com/EvJ2a6f.jpg",
+      "description": "Đây là mô tả chi tiết cho khóa học số 24.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 24.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 24.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 24.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 24.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 24.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Đây là mô tả chi tiết cho khóa học số 24.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.",
+      "category": 1,
+      "numberOfStudents": 86,
+      "rating": 2
+    },
+    {
+      "id": "25",
+      "title": "Giọng nói truyền cảm cho MC & Livestream",
+      "author": "Trần Thị Minh Hải",
+      "image": "https://i.imgur.com/mVu7uKi.jpg",
+      "description": "Phát triển giọng nói truyền cảm, hút người nghe, dành cho livestream hoặc MC.\nĐây là mô tả chi tiết cho khóa học số 25.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Phát triển giọng nói truyền cảm, hút người nghe, dành cho livestream hoặc MC.\nĐây là mô tả chi tiết cho khóa học số 25.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Phát triển giọng nói truyền cảm, hút người nghe, dành cho livestream hoặc MC.\nĐây là mô tả chi tiết cho khóa học số 25.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Phát triển giọng nói truyền cảm, hút người nghe, dành cho livestream hoặc MC.\nĐây là mô tả chi tiết cho khóa học số 25.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.Phát triển giọng nói truyền cảm, hút người nghe, dành cho livestream hoặc MC.\nĐây là mô tả chi tiết cho khóa học số 25.\nKhóa học cung cấp kiến thức thực tế và dễ tiếp cận.\nPhù hợp với người mới bắt đầu hoặc đã có nền tảng.\nBao gồm video, tài liệu và bài tập thực hành.\nHọc viên sẽ nâng cao kỹ năng sau khi hoàn thành khóa học.",
+      "category": 2,
+      "numberOfStudents": 99,
+      "rating": 1
+    }
+  ]
+}

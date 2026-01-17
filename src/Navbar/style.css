@@ -1,0 +1,117 @@
+@import "../assets/css/colors.css";
+.nav {
+  position: fixed; /* giữ cố định trên cùng */
+  top: 0; /* bám vào lề trên */
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  background-color: #0288d1; /* xanh đậm nổi bật */
+  height: 70px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 30px;
+}
+
+.nav-left {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  font-size: 16px;
+  color: #fff; /* đổi màu chữ sáng hơn để nổi trên nền tối */
+}
+
+.nav-left button {
+  border: none;
+  background-color: transparent;
+  font-weight: bold;
+  color: #fff;
+  cursor: pointer;
+}
+.nav-left button:hover {
+  color: #fdd835;
+}
+
+.nav-left .link {
+  color: #ffef62;
+}
+.nav-user-info {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.titleName {
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 15px;
+  font-weight: 500;
+  cursor: pointer;
+  padding: 8px 12px;
+  border-radius: 6px;
+  transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+.titleName:hover {
+  color: #ffeb3b; /* đổi sang vàng khi hover */
+  background-color: rgba(255, 255, 255, 0.1); /* nhẹ nhàng */
+}
+.logo-btn {
+  background: none;
+  border: none;
+  font-weight: bold;
+  font-size: 20px;
+  color: #fff;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.logo-btn:hover {
+  color: #fdd835;
+}
+
+/* .nav-right button {
+  height: 36px;
+  width: 100px;
+  border: none;
+  background-color: #fdd835; 
+  color: #000;
+  margin-left: 10px;
+  border-radius: 4px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+} */
+
+/* .nav-right button:hover {
+  background-color: #ffeb3b;
+} */
+
+.link {
+  color: #fdd835; /* màu vàng sáng */
+  font-weight: bold;
+}
+.button-1 {
+  background-color: var(--btn-xem-them);
+  border: none;
+  padding: 10px;
+  color: white;
+  font-size: small;
+  border-radius: 5px;
+  margin-right: 15px;
+}
+.button-1:hover {
+  background-color: var(--btn-hover);
+}
+.button-2 {
+  background-color: var(--btn-xem-them);
+  border: none;
+  padding: 10px;
+  color: white;
+  font-size: small;
+  border-radius: 5px;
+  width: 80px;
+}
+.button-2:hover {
+  background-color: var(--btn-hover);
+}

@@ -1,0 +1,79 @@
+.background-dang-ky {
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Khung modal đăng nhập */
+.modal-dang-nhap {
+  background-color: rgba(255, 255, 255, 0.95);
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  width: 350px;
+}
+.modal-dang-nhap button:hover {
+  color: #f9a825;
+}
+/* Nút chuyển tab đăng nhập/đăng ký */
+.button-logIn-register {
+  display: flex;
+
+  margin-bottom: 20px;
+}
+.button-logIn-register button {
+  background-color: rgba(255, 255, 255, 0.95);
+  border: none;
+  color: #333;
+  font-weight: bold;
+  padding: 10px;
+  cursor: pointer;
+}
+.button-logIn-register button.active {
+  color: #f9a825;
+  border-bottom: 2px solid #f9a825;
+}
+.button-logIn-register button:hover {
+  border-bottom: 2px solid #f9a825;
+}
+
+/* input */
+.input-email-pass label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+.input-email-pass input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  margin-bottom: 15px;
+}
+
+/* Nút đăng nhập */
+.button-submit {
+  text-align: center;
+}
+.button-submit button {
+  width: 100%;
+  padding: 10px;
+  background-color: #f9a825;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 6px;
+}
+.button-submit button:hover {
+  background-color: #f57f17;
+}
+.error {
+  color: red;
+  font-size: 12px;
+  margin-top: 4px;
+}

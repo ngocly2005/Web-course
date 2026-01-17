@@ -1,0 +1,112 @@
+@import "../assets/css/colors.css";
+.first-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.avatar-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+.avatar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.frame-img {
+  border: 2px solid #000;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #ccc;
+}
+
+.main-info {
+  padding: 10px;
+  border-radius: 6px;
+  background-color: #fff;
+}
+
+.frame-info {
+  margin: 40px auto;
+
+  padding: 20px;
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  background-color: #eaf3fc;
+  border-radius: 8px;
+  margin-top: 120px;
+}
+
+.first-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.avatar-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.frame-img {
+  border: 2px solid #000;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #ccc;
+}
+
+.input-info {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  padding: 10px 20px;
+  border-bottom: 1px solid #eee;
+  text-align: left;
+}
+.input-info h5 {
+  padding-right: 20px;
+}
+.input-info h2 {
+  margin-left: 80px;
+}
+.input-info:last-child {
+  border-bottom: none;
+}
+.btn-chinhSua-Luu {
+  padding: 10px;
+  display: flex;
+  justify-content: end;
+}
+.btn-Save-QuayLai {
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.input-info-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title-ngaysinh {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.blur {
+  opacity: 0.4;
+  pointer-events: none;
+}
